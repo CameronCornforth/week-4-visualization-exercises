@@ -1,2 +1,2 @@
-# week-4-lab-2
+# week-4-vidualizing-data
 visualizing with data
